@@ -1,0 +1,28 @@
+name: MaggieMacnab
+favicon: null
+layout_spectrum: 0.49716955213807523
+typography_spectrum: 0.7365126486402005
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4083287126850337
+  lightness: 0.5316611321177334
+  saturation: 0.8945187795907259
+  rhythmicContrast: 0.6389346329960972
+purpose: []
